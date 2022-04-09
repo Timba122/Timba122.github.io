@@ -238,7 +238,7 @@ margin-left: 20px;
 }
 ul.navlinks li{
 display: block;
-background: #121212;
+background: #beb4b9;
 width: 200px;
 height: auto;
 margin-top: 5px;
@@ -269,7 +269,7 @@ font-size:12px;
 }
 
 .steckbrief table {
-background: #262629; 
+background: #968490; 
 width: 700px; 
 height: auto; 
 text-align: justify;
@@ -277,7 +277,7 @@ text-align: justify;
 
 .steckbrief td.rtd {
 width: 200px; 
-background: #114d81; 
+background: #8a435e; 
 padding: 10px; 
 vertical-align: top;
 } 
@@ -287,7 +287,7 @@ display: inline-block;
 width: 200px; 
 height: auto; 
 margin-top: 2px; 
-background: #262629; 
+background: #968490; 
 text-align: center!important;
 } 
 
